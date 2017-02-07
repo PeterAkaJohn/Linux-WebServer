@@ -4,6 +4,8 @@
 
 * SSH Port: 2200
 
+* grader password: Y3ll@wC4rD
+
 * URL: http://ec2-52-35-58-113.us-west-2.compute.amazonaws.com/
 
 # Software Installed:
