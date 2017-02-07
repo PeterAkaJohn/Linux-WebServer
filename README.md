@@ -13,6 +13,8 @@
 * apache2
 * postgresql
 * libapache2-mod-wsgi
+* glances
+* fail2ban
 
 # Changes:
 
